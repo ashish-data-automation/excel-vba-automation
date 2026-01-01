@@ -29,14 +29,14 @@ This repository shows how **Excel VBA automation** can solve these problems effe
 ### 1️⃣ Invoice Automation
 📁 `invoice-automation/`
 
-**Problem:**  
+**Problem**  
 Invoices are often prepared manually in Excel, which is repetitive and error-prone.
 
-**Solution:**  
+**Solution**  
 An automated Excel VBA solution that generates invoices from structured input data
 with minimal manual effort.
 
-**What it demonstrates:**
+**What it demonstrates**
 - Data-driven invoice creation
 - Automated formatting
 - Reduced manual intervention
@@ -45,7 +45,6 @@ with minimal manual effort.
 ---
 
 ## 🛠 Skills Demonstrated
-
 - Excel VBA macro development
 - Automation logic & workflow design
 - Structured Excel-based solutions
@@ -54,7 +53,6 @@ with minimal manual effort.
 ---
 
 ## 🎯 Who This Is Useful For
-
 - Small businesses
 - Freelancers
 - Accounts & finance teams
@@ -63,9 +61,8 @@ with minimal manual effort.
 ---
 
 ## 📌 Notes
-
-- Projects are kept **simple and practical**
-- Code is written for **clarity and usability**
+- Projects are kept simple and practical
+- Code is written for clarity and usability
 - Each project folder contains its own README with explanation
 
 More automation examples will be added gradually.
@@ -73,10 +70,8 @@ More automation examples will be added gradually.
 ---
 
 ## 📬 Connect With Me
-
-If you’re looking to automate your Excel workflows or repetitive tasks:
-
 - Fiverr: https://www.fiverr.com/s/2KB3Dgq
 - LinkedIn: https://www.linkedin.com/in/ashish-jain-4581ba3a2/
 
 Practical automation is always better than manual work.
+
